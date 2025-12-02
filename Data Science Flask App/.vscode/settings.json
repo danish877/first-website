@@ -1,0 +1,6 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm.workingSets.enabled": false,
+    "accessibility.verbosity.sourceControl": true,
+    "scm.alwaysShowRepositories": false
+}
